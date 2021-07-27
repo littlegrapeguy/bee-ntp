@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Beee",
+  "description": "A simple new tab page, but with a hint of bee.",
+  "version": "1.0.0",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "permissions": ["storage"]
+}
